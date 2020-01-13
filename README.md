@@ -1,5 +1,5 @@
 # ML-Algorithms
-Marchine Learning and Data Science Algorithms
+Marchine Learning and Data Science Algorithms in Python
 
 Star Cubing Algorithm:
   Returns data cuboid abstractions that pass a variable iceberg condtion. Given a database.
